@@ -19,7 +19,6 @@ Originally Written by María Carina Roldán, Pentaho Community Member, BI consul
 - Pandas
 - Matplotlib
 - Seaborn
-- Chardet
 
 ## 🔧 Installation:
 pip install -r requirements.txt
