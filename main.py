@@ -1,5 +1,4 @@
 import os
-import pandas as pd
 from scripts import load_csv_with_detected_encoding
 from scripts import clean_data
 from scripts import agumentation_with_columns
