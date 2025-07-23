@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 
-def run_all_visualizations(df: pd.DataFrame) -> pd.DataFrame:
+def run_all_visualizations(df: pd.DataFrame) -> None:
     """
     Function to visualize data in simple_sales_analysis project.
     """
