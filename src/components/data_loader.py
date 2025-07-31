@@ -50,5 +50,5 @@ def load_csv_with_detected_encoding(path: str) -> pd.DataFrame:
             return df
 
     except Exception as e:
-        logging.info("Function to data loader has encountered a problem.")
+        logging.info("Function to load data has encountered a problem.")
         raise CustomException(e, sys) from e
